@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ihmExemple1</string>
+    <string name="main_activity_text">Bonjour !</string>
+    <string name="main_activity_button">Changer le Message</string>
+    <string name="main_activity_edit">Votre Message...</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="changer_le_message">Changer le Message</string>
+    <string name="layout_exemple_activity">Le château de Compiègne est une ancienne résidence royale et impériale située à Compiègne dans l\'Oise. Il fait l\'objet d\'un classement au titre des monuments historiques depuis le 24 Octobre 1994. Bâti par Louis XV et Louis XVI, réaménagé sous Napoléon Ier puis Napoléon III, le château de Compiègne fut un haut-lieu de la vie de cour et de l\'exercice du pouvoir. L\'originalité et la beauté du plus grand château néo-classique français, la qualité de ses décors intérieurs et de son mobilier, constituent un ensemble unique, un lieu historique qui, aux côtés de Versailles et de Fontainebleau, est l\'une des trois plus importantes résidences royales et impériales françaises.</string>
+</resources>

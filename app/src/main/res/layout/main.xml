@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/mainActivity_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/main_activity_text" />
+
+    <EditText
+        android:id="@+id/mainActivity_edit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autofillHints="@string/main_activity_edit"
+        android:ems="10"
+        android:hint="@string/main_activity_edit"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:tooltipText="un message à afficher"
+        tools:ignore="TextContrastCheck" />
+
+    <Button
+        android:id="@+id/mainActivity_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/changer_le_message" />
+
+    <Button
+        android:id="@+id/start_activity_2_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lancer activité 2" />
+
+    <Button
+        android:id="@+id/get_score_activity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lancer Activité 3" />
+
+</LinearLayout>

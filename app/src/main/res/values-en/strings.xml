@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ihmExemple1</string>
+    <string name="main_activity_text">Hello !</string>
+    <string name="main_activity_button">Change the Message</string>
+    <string name="main_activity_edit">Your Message...</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="changer_le_message">Change the Message</string>
+</resources>
